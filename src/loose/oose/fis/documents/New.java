@@ -1,0 +1,3 @@
+class New{
+    public New(){}
+}
